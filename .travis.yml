@@ -33,4 +33,3 @@ os:
         - docker images
         - docker tag travis-ci-build-stages-demo $DOCKER_USERNAME/laravel-5
         - docker push $DOCKER_USERNAME/laravel-5
-   
